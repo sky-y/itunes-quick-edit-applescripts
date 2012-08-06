@@ -30,7 +30,10 @@ Rate ★(to ★★★★★ and ☆☆☆☆☆).scpt
 
 ## My Preference
 
-My hotkeys with spark is here:
-
-
-![image](./blog/master/Spark_Screenshot.png)
+* Edit Comments: F2
+* Rate ★: command-1
+* Rate ★★: command-2
+* Rate ★★★: command-3
+* Rate ★★★★: command-4
+* Rate ★★★★★: command-5
+* Rate ☆☆☆☆☆: command-0
