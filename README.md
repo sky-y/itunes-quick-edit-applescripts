@@ -33,4 +33,4 @@ Rate ★(to ★★★★★ and ☆☆☆☆☆).scpt
 My hotkeys with spark is here:
 
 
-![image](./Spark_Screenshot.png)
+![image](./blog/master/Spark_Screenshot.png)
